@@ -158,7 +158,30 @@ int body = 0;
 	if (response24==1) {
 		self++;
 	}
-		
+  if (self ==1 ) {
+	  System.out.println("Your intelligence reflects on Self");
+  }
+  if (music ==1 ) {
+	  System.out.println("Your intelligence reflects on Music");
+  }
+  if (body ==1 ) {
+	  System.out.println("Your intelligence reflects on Body");
+  }
+  if (nature ==1 ) {
+	  System.out.println("Your intelligence reflects on Nautre");
+  }
+  if (word ==1 ) {
+	  System.out.println("Your intelligence reflects on Word");
+  }
+  if (math ==1 ) {
+	  System.out.println("Your intelligence reflects on Math");
+  }
+  if (people ==1 ) {
+	  System.out.println("Your intelligence reflects on People");
+  }
+  if (picture ==1 ) {
+	  System.out.println("Your intelligence reflects on Picture");
+  }
 	
 
 	in.close();
